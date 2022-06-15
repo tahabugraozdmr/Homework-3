@@ -1,3 +1,2 @@
-# Homework-3
-Homework for Kodluyoruz
+# Ödev-3
 www.patika.dev için yaptığım 3. ödev
